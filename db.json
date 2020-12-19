@@ -1,0 +1,170 @@
+{
+  "product": [
+    {
+      "id": "2",
+      "name": "Iphone 12",
+      "price": "700000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assm-b9b97.appspot.com/o/images%2FAvarta.jpg?alt=media&token=eff3e64b-7638-4a49-bd3a-9fd5452db016",
+      "desc": "Like 90%"
+    },
+    {
+      "id": "3",
+      "name": "Iphone 12",
+      "price": "500000",
+      "image": "https://phatthanhmobile.vn/wp-content/uploads/2014/05/samsung-mat-den-man-hinh.jpg",
+      "desc": "Like 99%"
+    },
+    {
+      "id": "4",
+      "name": "SamSung A20",
+      "price": "500000",
+      "image": "https://mobigo.vn/images/seoworld/vivo/part-6/image2.jpg",
+      "desc": "Like 99%"
+    },
+    {
+      "id": "5",
+      "name": "SamSung A19",
+      "price": "500000",
+      "image": "https://phatthanhmobile.vn/wp-content/uploads/2014/05/samsung-mat-den-man-hinh.jpg",
+      "desc": "Brand New"
+    },
+    {
+      "id": "6",
+      "name": "SamSung A9 Pro",
+      "price": "500000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7y5RNJikf0_Flv2dEiokSMfqOT5rLR3QGRw&usqp=CAU",
+      "desc": "Like 99%"
+    },
+    {
+      "id": "7",
+      "name": "Sone Y7",
+      "price": "500000",
+      "image": "https://cdn.24h.com.vn/upload/4-2018/images/2018-12-14/1544763378-217-active-1--1544762564-width660height759.jpg",
+      "desc": "Brand New"
+    },
+    {
+      "id": "8",
+      "name": "Iphone 11",
+      "price": "500000",
+      "image": "https://fptshop.com.vn/uploads/images/tin-tuc/122623/Originals/4802517_cover_home_iphone_11_pro_max.jpg",
+      "desc": "Like 99%"
+    },
+    {
+      "id": "9",
+      "name": "Sone Y9",
+      "price": "500000",
+      "image": "https://vcdn-sohoa.vnecdn.net/2020/04/29/iPhone-1-3247-1588127007.jpg",
+      "desc": "Brand New"
+    },
+    {
+      "id": "10",
+      "name": "Iphone 12",
+      "price": "500000",
+      "image": "https://vcdn-sohoa.vnecdn.net/2020/04/29/iPhone-1-3247-1588127007.jpg",
+      "desc": "Like 99%"
+    },
+    {
+      "id": "11",
+      "name": "Sone Y12",
+      "price": "500000",
+      "image": "https://mobigo.vn/images/seoworld/vivo/part-6/image2.jpg",
+      "desc": "Like 90%"
+    },
+    {
+      "id": "12",
+      "name": "Sone Q18",
+      "price": "500000",
+      "image": "https://phatthanhmobile.vn/wp-content/uploads/2014/05/samsung-mat-den-man-hinh.jpg",
+      "desc": "Like 90%"
+    },
+    {
+      "id": "13",
+      "name": "Vivo V3",
+      "price": "500000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7y5RNJikf0_Flv2dEiokSMfqOT5rLR3QGRw&usqp=CAU",
+      "desc": "407.00"
+    },
+    {
+      "id": "14",
+      "name": "VinSmart Live",
+      "price": "500000",
+      "image": "https://cdn.24h.com.vn/upload/4-2018/images/2018-12-14/1544763378-217-active-1--1544762564-width660height759.jpg",
+      "desc": "Like 90%"
+    },
+    {
+      "id": "15",
+      "name": "VinSmart Live 3",
+      "price": "500000",
+      "image": "https://cdn.24h.com.vn/upload/4-2018/images/2018-12-14/1544763378-217-active-1--1544762564-width660height759.jpg",
+      "desc": "Brand New"
+    },
+    {
+      "id": "16",
+      "name": "VinSmart Live 4",
+      "price": "500000",
+      "image": "https://dienmaycholon.vn/public/userupload/images/dien%20thoai%20chup%20anh%20dep%20oppo.png",
+      "desc": "Like 90%"
+    },
+    {
+      "id": "bpsc4tohu",
+      "name": "Phạm Thanh Bình",
+      "price": "500000",
+      "desc": "Brand New",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assm-b9b97.appspot.com/o/images%2FAvarta2.jpg?alt=media&token=155d099f-418d-48a1-a3ec-af0bbe8eb61f"
+    },
+    {
+      "id": "jcm40vu7c",
+      "name": "Ha Noi",
+      "price": "500000",
+      "desc": "Brand New",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assm-b9b97.appspot.com/o/images%2FLogo%20Best%20Team%20After%202.png?alt=media&token=615e3c7d-58d4-457c-a0ea-66c69ec1b7b2"
+    },
+    {
+      "id": "h71z6ecnj",
+      "name": "Thanh Thanh",
+      "price": "99000",
+      "desc": "Like 90%",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assm-b9b97.appspot.com/o/images%2FGirl1.jpg?alt=media&token=a5aa2070-6e6e-4e91-969a-fc4329ea6920"
+    },
+    {
+      "id": "vfcapfamj",
+      "name": "Phạm Thanh Bình",
+      "price": "20000",
+      "desc": "Like New",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assm-b9b97.appspot.com/o/images%2FAvarta2.jpg?alt=media&token=0c6b92b5-5552-4546-8b37-dafc91300ef0"
+    },
+    {
+      "id": "rdxsqciua",
+      "name": "Iphone 14",
+      "price": "90090",
+      "desc": "Brand New",
+      "image": "https://firebasestorage.googleapis.com/v0/b/assm-b9b97.appspot.com/o/images%2FAvarta3.jpg?alt=media&token=37481a01-d663-4a7b-a1c5-db4f24ada439"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "name": "thanhbinh",
+      "pass": "123",
+      "status": "1"
+    },
+    {
+      "id": 2,
+      "name": "thaydat",
+      "pass": "123",
+      "status": "2"
+    },
+    {
+      "name": "111",
+      "pass": "222",
+      "status": "1",
+      "id": 3
+    },
+    {
+      "name": "11111",
+      "pass": "22222",
+      "status": "1",
+      "id": 4
+    }
+  ]
+}
